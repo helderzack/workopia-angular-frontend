@@ -1,0 +1,7 @@
+.showcase {
+    background-image: url(../../../public/showcase.jpg);
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.6)
+}
